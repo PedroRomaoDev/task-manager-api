@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "id": "07683dc6-d8af-45b7-ac40-91978e640d96",
+      "title": "Estudar JavaScript",
+      "time": "morning",
+      "description": "Nodejs and React",
+      "status": "not_started"
+    }
+  ]
+}
